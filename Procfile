@@ -1,0 +1,1 @@
+watcher: bundle exec clockwork ./config/cron.rb
